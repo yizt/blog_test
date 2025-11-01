@@ -1,0 +1,38 @@
+---
+title: Test1
+date: 2025-11-02T07:06:38+08:00
+lastmod: 2025-11-02T07:06:38+08:00
+author: Author Name
+# avatar: /img/author.jpg
+# authorlink: https://author.site
+cover: /img/cover.jpg
+# images:
+#   - /img/cover.jpg
+categories:
+  - category1
+tags:
+  - tag1
+  - tag2
+# nolastmod: true
+draft: true
+---
+
+Cut out summary from your post content here.
+
+<!--more-->
+
+The remaining content of your post.
+
+行内数学公式：$a^2 + b^2 = c^2$。
+
+块公式，
+
+$$
+a^2 + b^2 = c^2
+$$
+
+<div>
+$$
+\boldsymbol{x}_{i+1}+\boldsymbol{x}_{i+2}=\boldsymbol{x}_{i+3}
+$$
+</div>
