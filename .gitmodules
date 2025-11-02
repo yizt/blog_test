@@ -1,3 +1,7 @@
 [submodule "themes/dream"]
 	path = themes/dream
 	url = https://github.com/cycinter/hugo-theme-dream.git
+
+[submodule "themes/DoIt"]
+	path = themes/DoIt
+	url = https://github.com/HEIGE-PCloud/DoIt.git
